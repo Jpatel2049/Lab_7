@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab_7</string>
+
+    <string-array name="book_array">
+        <item>"The Kite Runner"</item>
+        <item>"It"</item>
+        <item>"Rosemary's Baby"</item>
+        <item>"Misery"</item>
+        <item>"Into the Wild"</item>
+        <item>"The Martian"</item>
+        <item>"The Haunting of Hill House"</item>
+        <item>"The Book Thief"</item>
+        <item>"The Terror"</item>
+        <item>"Do Androids Dream of Electric Sheep"</item>
+        <item>"Outliers"</item>
+        <item>"The Count of Monte Cristo"</item>
+        <item>"The Disaster Artist"</item>
+        <item>"The Devil in the White City"</item>
+    </string-array>
+
+</resources>
